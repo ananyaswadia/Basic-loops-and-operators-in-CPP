@@ -16,3 +16,12 @@ int main(){
 
           return 0;
 }
+
+/*  SAMPLE OUTPUT 1
+Enter an integer: 7
+number is positive
+
+SAMPLE OUTPUT 2
+Enter an integer: -10
+number is negative
+*/
