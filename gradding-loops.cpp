@@ -40,3 +40,14 @@ int main(){
    
     return 0;
 }
+
+
+/*   OUTPUT 
+Enter marks (out of 100) for math: 78
+Enter marks (out of 100) for english: 89
+Enter marks (out of 100) for science: 56
+Enter marks (out of 100) for social studies: 84
+Enter marks (out of 100) for hindi: 90
+---Your result---
+Grade: A
+*/
