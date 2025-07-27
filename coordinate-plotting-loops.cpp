@@ -25,3 +25,15 @@ int main(){
    
     return 0;
 }
+
+/*  SAMPLE OUTPUT 1
+Enter X coordinate: 5
+Enter Y coordinate: -9
+Point lies in IV quadrant
+
+
+SAMPLE OUTPUT 2
+Enter X coordinate: -1
+Enter Y coordinate: -7
+Point lies in III quadrant
+*/
