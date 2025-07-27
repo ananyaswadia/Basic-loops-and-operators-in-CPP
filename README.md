@@ -19,6 +19,13 @@ Initialization (int i = 0)
 Condition (i < 5)
 Update (i++)
 
+<img width="1575" height="1077" alt="image" src="https://github.com/user-attachments/assets/fef7cb49-eea0-4cf5-8638-03d44f0f3681" />
+
+<img width="2190" height="1587" alt="image" src="https://github.com/user-attachments/assets/42695a48-7acc-4914-ae8d-e6561a69a6f1" />
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/24de7429-e717-4b8b-bf75-a46c6a83717c" />
+
+
 
 ## Conclusion 
 With the help of these codes we laernt to implement basic if-else and if-elseif-else loops, using the LOGICAL OPERATOR 'AND (&&)'  and RELATIONAL OPERATOR '>', '<', '='.
